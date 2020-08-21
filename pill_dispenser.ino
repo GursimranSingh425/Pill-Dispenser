@@ -1,4 +1,5 @@
-//Pristine Pill Dispenser
+//Iot Pill Dispenser
+//Thanks to developers of included libraries
 #include "RTClib.h"
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
